@@ -1,16 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+
+
 /* Stage */
 
 #stage {
-    background: gray;
-    height: 300px;
-    width: 600px;
+    background: white;
+    height: 500px;
+    width: 800px;
 }
 
-#stage #star {
-    height: 100px;
-    width: 100px;
+#stage #vcdDoodle {
+    height: 350px;
+    width: 450px;
 }
 
+/* doodle */
+h1 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 7em;
+	font-weight: lighter;
+	line-height: 75px;
+}
+
+#vcd {
+	
+}
+
+#stage #thumbtack {
+	width: 20px;
+	height: 20px;
+	
+}
+
+
+
+.g {
+	color: blue;
+}
+.o {
+	color: red;
+}
+
+.o2 {
+	color: yellow;
+}
+
+.g2 {
+	color: blue;
+}
+
+.l {
+	color: green;
+}
+
+.e {
+	color: red;
+	
+}
+
+.v {
+	color: blue;
+}
+
+.c {
+	color: red;
+}
+
+.d {
+	color: yellow;
+}
 
 /* DO NOT EDIT BELOW THIS LINE */
 
