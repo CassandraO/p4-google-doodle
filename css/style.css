@@ -6,13 +6,16 @@
 #stage {
     background: white;
     height: 500px;
-    width: 800px;
+    width: 600px;
 }
 
 #stage #vcdDoodle {
     height: 350px;
     width: 450px;
+	
 }
+
+
 
 /* doodle */
 h1 {
@@ -29,9 +32,15 @@ h1 {
 #stage #thumbtack {
 	width: 20px;
 	height: 20px;
-	
+	opacity: 0;
 }
 
+#stage #grade {
+	width: 100px;
+	height: 100px;
+	opacity: 0;
+	animation: rotate 1s;
+}
 
 
 .g {
